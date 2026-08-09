@@ -6,7 +6,7 @@
 |---|---|---|
 | Mixed Methods | Real Research Project | In Progress |
 
-**Skills demonstrated:** Mixed-Methods Research · Longitudinal Survey Design · Qualitative Interviewing · Pilot Testing · Scale Development · Prospective Research · Integrated Analysis
+**Skills demonstrated:** Mixed-Methods Research · Longitudinal Survey Design · Qualitative Interviewing · Scale Development · Pilot Testing · Prospective Study Design · Purposive Sampling · Mixed-Methods Integration · Conceptual Model Development · Questionnaire Design
 
 ## Research Question
 
