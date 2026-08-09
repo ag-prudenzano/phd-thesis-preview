@@ -63,8 +63,3 @@ Study 3 returns to a purposive subsample for qualitative follow-up interviews, e
 ## Contribution
 
 Rather than treating “screen time” or “social media use” as uniform experiences, this research focuses on a specific behaviour with specific interpersonal demands: actively speaking in live voice channels. In doing so, it asks a more useful question than whether online communication is simply good or bad: for whom, under what conditions, and through which mechanisms might online interaction shape life offline?
-
-## Project Files
-
-- [`report.md`](report.md) – This thesis preview
-- [`README.md`](README.md) – Repository overview
