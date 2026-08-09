@@ -10,7 +10,7 @@
 
 ## Research Question
 
-Can speaking in Discord voice channels support offline social confidence and engagement among adults with elevated social anxiety?
+Among adult Discord voice users with elevated social anxiety, does speaking in Discord voice channels strengthen offline social self-efficacy and, in turn, increase volitional offline social engagement?
 
 My PhD research examines whether speaking in Discord voice channels can support offline social confidence and engagement among adults with elevated social anxiety.
 
