@@ -10,7 +10,7 @@
 
 ## Research Question
 
-Can speaking online help people feel more confident offline?
+Can speaking in Discord voice channels support offline social confidence and engagement among adults with elevated social anxiety?
 
 My PhD research examines whether speaking in Discord voice channels can support offline social confidence and engagement among adults with elevated social anxiety.
 
