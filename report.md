@@ -2,9 +2,9 @@
 
 ## Project Snapshot
 
-| Method | Project Type | Research Stage | Status |
-|---|---|---|---|
-| Mixed Methods | Real Research Project | PhD Research | In Progress |
+| Method | Project Type | Status |
+|---|---|---|
+| Mixed Methods | Real Research Project | In Progress |
 
 **Skills demonstrated:** Mixed-Methods Research · Longitudinal Survey Design · Qualitative Interviewing · Pilot Testing · Scale Development · Prospective Research · Integrated Analysis
 
